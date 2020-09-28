@@ -1,0 +1,23 @@
+.login {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  background-color: black;
+}
+
+.banner{
+  background-color: black;
+}
+
+.banner > img {
+  width: 100%;
+}
+
+ a {
+  padding: 20px;
+  border-radius: 99px;
+  background-color: #8F13FE;
+  font-weight: 800;
+  color: white;
+  text-decoration: none;
+}
