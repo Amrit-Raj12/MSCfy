@@ -1,7 +1,6 @@
 ![msc_final](https://user-images.githubusercontent.com/67092088/132032729-05e4aaad-e708-4f3f-89de-056998e8df71.PNG)
 #############################################################################################################
-Note:- Due to large size 'node-mudels' are unable to upload on this repo,
-       You can download 'node-module' from this link:-
+Note:- You can download 'node-module' from this link:-
       https://drive.google.com/file/d/1K51UFkOHVqpdkOu8g7mcC12PpN4IxYOQ/view?usp=sharing
        
        
